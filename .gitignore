@@ -1,0 +1,6 @@
+# Installer executables
+*.exe
+
+# Temporary files
+*.tmp
+*.log
